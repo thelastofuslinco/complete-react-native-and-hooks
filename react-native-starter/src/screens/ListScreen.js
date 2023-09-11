@@ -16,9 +16,7 @@ const ListScreen = () => {
           {item.name} - Age {item.age}
         </Text>
       )}
-    >
-      ListScreen
-    </FlatList>
+    />
   )
 }
 
